@@ -1,7 +1,7 @@
 # Site
-name: 'Jekyll Toolbox'
-title: 'Jekyll Toolbox'
-description: 'Jekyll Toolbox - Tips, Tricks, Samples and more'
+name: 'Ionic Templates Toolbox'
+title: 'Ionic Templates Toolbox'
+description: 'Ionic Templates Toolbox - Tips, Tricks, Samples and more'
 baseurl: '/'
 
 include: ["_pages"]
